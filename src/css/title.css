@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Montserrat:wght@100&family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,300&display=swap');
+
+
+
+  
+   
+
+ .text-title {
+   padding-right: 50%;
+  
+ }
+
+ .hello-title {
+   color: beige;
+   font-family: 'Lato', sans-serif;
+   font-size: 50px;
+ }
+
+.name-title {
+    background-image: url(https://data.whicdn.com/images/279936252/original.gif);   -webkit-background-clip: text;
+  color: transparent;
+font-family: 'Bebas Neue', cursive;
+font-size: 140px;
+}
+
+.aline-text {
+   
+   background-color: #2a3741;
+   padding-left: 15%; 
+   padding-top: 5%;
+   padding-bottom: 0%;
+}
+
+
+.website-title {
+  color: #F2BC79;
+  font-family: 'Inter', sans-serif;
+  font-size: 50px;
+  padding-top: 2%;}
+
+  
+.title-about {
+  color: beige;
+font-family: 'Rubik', sans-serif;
+padding-right: 20%;
+font-size: 21px;
+}
+
+article > span { 
+    color: #A68263;
+    
+}
+
+

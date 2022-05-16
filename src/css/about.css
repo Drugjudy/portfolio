@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,300&display=swap');
+
+
+.about-arc {
+  padding-top: 3%;
+  padding-left: 7%;
+  padding-bottom: 7%;
+  padding-right: 20%;
+  font-size: larger;
+  font-family: 'Rubik', sans-serif;
+  color: antiquewhite;
+}
+
+
+.profile-pic {
+  width: 350px;
+  height: 350px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  border: 3px solid #e4c14f;
+  position:relative;
+  top: -70px;
+  left: 60%;
+}
+.profile-pic img {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
+
+.work-idea {
+  padding-bottom: 4%;
+  color: #2a3741;
+}
